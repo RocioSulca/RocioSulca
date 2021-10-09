@@ -1,6 +1,6 @@
 ### Hi there! I am Rocio 👋👩‍💻
 
-![](https://komarev.com/ghpvc/?username=RocioSulca)
+![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=gruvbox)
