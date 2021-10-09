@@ -1,6 +1,9 @@
 ### Hi there! I am Rocio 👋👩‍💻
 
 ![Rocio's github stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=slateorange)
+
+![Snake Github](github-user-contribution.svg)
+
 <!--
 **RocioSulca/RocioSulca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
