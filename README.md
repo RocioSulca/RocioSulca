@@ -1,6 +1,6 @@
 ### Hi there! I am Rocio 👋👩‍💻
 
-![Rocio's github stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=slateorange)
+![Rocio's github stats](https://github.com/RocioSulca/RocioSulca/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake Github](github-user-contribution.svg)
 
