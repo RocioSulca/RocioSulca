@@ -1,5 +1,8 @@
 ### Hi there! I am Rocio 👋👩‍💻
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=gruvbox)
+
+
 ![Rocio's github stats](https://github.com/RocioSulca/RocioSulca/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake Github](github-user-contribution.svg)
