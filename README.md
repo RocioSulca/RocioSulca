@@ -5,7 +5,7 @@
 
 ![Rocio's github stats](https://github.com/RocioSulca/RocioSulca/blob/output/github-contribution-grid-snake.svg)
 
-![Snake Github](github-user-contribution.svg)
+![Snake Github](github-user-contribution-rocio.svg)
 
 <!--
 **RocioSulca/RocioSulca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
