@@ -3,11 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=gruvbox)
+![Rocio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=gruvbox)
 
-![Snake Github](github-user-contribution-rocio.svg)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RocioSulca&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Snake Github](github-user-contribution-rocio.svg)
 
 <!--
 **RocioSulca/RocioSulca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
