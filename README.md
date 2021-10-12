@@ -27,5 +27,13 @@ Here are some ideas to get you started:
 
 I'm a Front-end Developer Junior. I'm passionate about the tech world which constantly seeks to update knowledge in technological innovation. I really want to learn and make projects where I can design and resolve problems with code.
 
+Tools
 
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361DAFB"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="VSCode" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-eb7039?style=flat-square&logo=figma&logoColor=white" />
+<img alt="Eslint" src="https://img.shields.io/badge/-ESLint-595fba?style=flat-square&logo=eslint&logoColor=white" />
 -->
