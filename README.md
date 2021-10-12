@@ -37,4 +37,24 @@ Tools
 <img alt="VSCode" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-eb7039?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Eslint" src="https://img.shields.io/badge/-ESLint-595fba?style=flat-square&logo=eslint&logoColor=white" />
+
+*How to reach me *
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rocio-sulca-zuloaga-a15179145/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+  </a>
+  
+  <a href="https://www.instagram.com/sgcm14/" target="_blank">
+    <img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" width="30">
+  </a>
+  
+  <a href="https://www.facebook.com/sgcm14" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" height="30" width="30">
+  </a>
+  
+  <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20From%20Github">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
+</a>
+<p>
 -->
