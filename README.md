@@ -56,5 +56,9 @@ Tools
   <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20From%20Github">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
 </a>
+
+<a href="mailto:rociosulca.z@gmail.com?subject=Hello%20Rocio,%20From%20Github">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
+</a>
 <p>
 -->
