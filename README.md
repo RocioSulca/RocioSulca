@@ -45,17 +45,13 @@ Tools
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
   </a>
   
-  <a href="https://www.instagram.com/sgcm14/" target="_blank">
+  <a href="https://www.instagram.com/rocio.s.z/" target="_blank">
     <img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" width="30">
   </a>
   
-  <a href="https://www.facebook.com/sgcm14" target="_blank">
+  <a href="https://web.facebook.com/kath.parthenopeus/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" height="30" width="30">
   </a>
-  
-  <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20From%20Github">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
-</a>
 
 <a href="mailto:rociosulca.z@gmail.com?subject=Hello%20Rocio,%20From%20Github">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
