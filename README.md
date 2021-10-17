@@ -1,34 +1,16 @@
-### Hi there! I am Rocio 👋👩‍💻 ![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
+## Hi there! I am Rocio 👋👩‍💻 ![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
 
 I'm a Front-end Developer Junior. I'm passionate about the tech world which constantly seeks to update knowledge in technological innovation. I really want to learn and make projects where I can design and resolve problems with code.
+
+### Stats
 
 <div align="center">
   
 ![Rocio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocioSulca&show_icons=true&theme=gruvbox)
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RocioSulca&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RocioSulca&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Snake Github](github-user-contribution-rocio.svg)
-</div>
-<!--
-**RocioSulca/RocioSulca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at Laboratoria
-- 🌱 I’m currently learning JS, Node and React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-I'm a Front-end Developer Junior. I'm passionate about the tech world which constantly seeks to update knowledge in technological innovation. I really want to learn and make projects where I can design and resolve problems with code.
-
-Tools
+### Tools
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -37,6 +19,11 @@ Tools
 <img alt="VSCode" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-eb7039?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Eslint" src="https://img.shields.io/badge/-ESLint-595fba?style=flat-square&logo=eslint&logoColor=white" />
+
+
+
+![Snake Github](github-user-contribution-rocio.svg)
+</div>
 
 *How to reach me *
 
@@ -57,4 +44,8 @@ Tools
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
 </a>
 <p>
+<!--
+
+
+
 -->
