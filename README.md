@@ -1,6 +1,6 @@
 ### Hi there! I am Rocio 👋👩‍💻 ![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
 
-
+I'm a Front-end Developer Junior. I'm passionate about the tech world which constantly seeks to update knowledge in technological innovation. I really want to learn and make projects where I can design and resolve problems with code.
 
 <div align="center">
   
