@@ -1,6 +1,6 @@
-### Hi there! I am Rocio 👋👩‍💻
+### Hi there! I am Rocio 👋👩‍💻 ![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
 
-![](https://komarev.com/ghpvc/?username=RocioSulca&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
+
 
 <div align="center">
   
