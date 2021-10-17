@@ -21,11 +21,11 @@ I'm a Front-end Developer Junior. I'm passionate about the tech world which cons
 <img alt="Eslint" src="https://img.shields.io/badge/-ESLint-595fba?style=flat-square&logo=eslint&logoColor=white" />
 
 
-
+### Commits
 ![Snake Github](github-user-contribution-rocio.svg)
 </div>
 
-*How to reach me *
+### How to reach me 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rocio-sulca-zuloaga-a15179145/" target="_blank">
@@ -44,8 +44,4 @@ I'm a Front-end Developer Junior. I'm passionate about the tech world which cons
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
 </a>
 <p>
-<!--
 
-
-
--->
